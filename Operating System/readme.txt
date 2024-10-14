@@ -1,8 +1,6 @@
-Student ID: 20080833
+Name: Zhenqi Zhang
 
-Student Name: Zhenqi Zhang
-
-Assignment Unit: Operating System (COMP2006)
+Assignment Unit: Operating System
 
 # Bank Customer Queue Program
 
